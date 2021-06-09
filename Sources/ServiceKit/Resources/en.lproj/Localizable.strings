@@ -1,0 +1,6 @@
+/* ServiceClient.swift */
+
+"service-client.invalid-response.error.text" = "Could not parse HTTP response.";
+
+"service-client.no-data.error.text" = "No Data.";
+
